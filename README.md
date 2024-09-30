@@ -16,7 +16,7 @@ Run the Streamlit application locally.<br>
 Push Your Code to GitHub<br>
 Deploy on Streamlit Community Cloud<br>
 Once deployed, Streamlit will provide you with a URL where your app is accessible. Share this URL for others to access your app.<br>
-Contributing
+Contributing:
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
